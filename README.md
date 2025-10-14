@@ -50,3 +50,5 @@ Last update: Wed Jun 11 2025 12:25:58 GMT+0000 (Coordinated Universal Time)
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
+
+<!-- Auto-update: 2025-10-14T12:53:14.448313 -->
